@@ -65,6 +65,23 @@ OBS.: Quando seguir o passo da instalação do **node-gyp** é de suma importân
 Seguindo todos esses passos, vocês estará para pronta para instalar as depedências do projeto na pasta do projeto! ;)
 
 
+## Instalação Bot Framework Emulator via Linux:
+
+Caso o seu sistema operacional seja o Linux, basta executar os seguintes comandos abaixo:
+
+**Passo 1:** Abre o link para baixar a versão necessária. Caso não saiba, basta executar o comando abaixo:
+
+```
+> arch
+
+```
+
+```
+> https://github.com/Microsoft/BotFramework-Emulator/releases
+
+```
+
+
 ## Dúvidas?! :triangular_flag_on_post:
 
 Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente bastam criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :heart: :heart: :heart: :blush:
